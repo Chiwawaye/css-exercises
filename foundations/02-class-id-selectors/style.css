@@ -1,7 +1,18 @@
-div {
+#num2 {
+    color: blue;
+    font-size: xx-large;
+}
+
+#num4 {
+    font-weight: bolder;
+    font-size: x-large;
+    color: black;
     background-color: lightgreen;
 }
-.same1-5 {
-    background-color: lightcoral;
-    color: black
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+.adjust-font-size {
+    font-size: 24px;
