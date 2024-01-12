@@ -1,5 +1,8 @@
 /* Add CSS Styling */
-.avatar,
-.proportioned {
-    size-adjust: wide: 300px;
+.avatar.proportioned {
+    width: 300px;
+}
+.avatar.distorted{
+    width: 200px;
+    length: 400px;
 }
